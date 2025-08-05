@@ -1,2 +1,2 @@
-# -programa-o-orientada-a-objetos
+# Programação orientada a objetos
 Fazendo um projeto da plataforma da DIO.
